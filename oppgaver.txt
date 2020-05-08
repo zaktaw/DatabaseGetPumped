@@ -2,11 +2,11 @@ Treningsenteret Get pumped!
 
 Treningssenteret skal lagre informasjon om de forskjellige avdelingene treningssentrene har, ansatte, kunder, kundekontrakter og de forskjellige gruppetimene treningssentrene har.
 
-Om avdelingene lagres avdelingsnummmer, navn, lokasjon (postsnummer, poststed, adresse), telefonnummer, epostadresse og hvem som er daglig leder (ansattnummer). Get pumped har to avdelinger i Oslo, én avdelig i Trondheim og én avdeling i Bergen. En ansatt kan kun være leder for én avdelig og én avdeling har kun én ansatt på et gitt tidspunkt. Get pumped ønsker å holde en oversikt over hvem som har ledet hvilken avdeling og på hvilket tidspunkt ledelsesforholdet startet.
+Om avdelingene lagres avdelingsnummmer, navn, lokasjon (postsnummer, adresse), telefonnummer, epostadresse og hvem som er daglig leder (ansattnummer). Get pumped har to avdelinger i Oslo, én avdelig i Trondheim og én avdeling i Bergen. En ansatt kan kun være leder for én avdelig og én avdeling har kun én ansatt på et gitt tidspunkt. Get pumped ønsker å holde en oversikt over hvem som har ledet hvilken avdeling og på hvilket tidspunkt ledelsesforholdet startet.
 
-Om de ansatte lagres ansattnummer, navn (fornavn, etternavn), adresse (postnummer, poststed, adresse), epostadresse og avdeling (avdelingsnummer).
+Om de ansatte lagres ansattnummer, navn (fornavn, etternavn), adresse (postnummer, adresse), epostadresse og avdeling (avdelingsnummer).
 
-Om kundene lagres kundenummer, navn (fornavn, etternavn), adresse (postnummer, poststed, adresse) og epostadresse.
+Om kundene lagres kundenummer, navn (fornavn, etternavn), adresse (postnummer, adresse) og epostadresse.
 
 Kunder skriver kontrakt med treningssentrene når de starter å trene der. Kundene kan velge mellom å ha bindingstid på 12 måneder og betale 200 i måneden eller å ikke ha bindingstid å betale 250 i måneden. Om kontrakten skal kundenummer, startdato, avdeling (avdelingsnummer) og bindingstid (true eller false) lagres.
 
@@ -60,7 +60,7 @@ SQL-oppgaver
 29) Vis hvor mange kunder med bindingstid som har personlig trener og hvor mange kunder uten bindingstid som har personlig trener
 
 30) Vis avdelingen med flest ansatte
-31) Vis gjennomsnittet for antall ansatte for hver avdeling
+31) Vis gjennomsnittet for antall ansatte i avdelingene
 32) Vis antall ansatte fordelt på hver avdeling
 
 
