@@ -158,7 +158,7 @@ insert into ansatt (fornavn, etternavn, postnummer, adresse , telefonnummer, epo
 -- Avdelinger
 INSERT INTO avdeling (postnummer, adresse, telefonnummer, epost, ansattnummer, navn) VALUES ('0010', 'Trondheimsveien 32', '64948822', 'osloost@getpumped.no', 10, 'Get pumped! Oslo Ost');
 INSERT INTO avdeling (postnummer, adresse, telefonnummer, epost, ansattnummer, navn) VALUES ('0162', 'Storgata 50', '64943240', 'oslosentrum@getpumped.no', 20, 'Get pumped! Oslo Sentrum');
-INSERT INTO avdeling (postnummer, adresse, telefonnummer, epost, ansattnummer, navn) VALUES ('7010', 'Dybdahls veg 23', '64947660', 'trondheim@getpumped.no', 30, 'Get pumped! trondheim');
+INSERT INTO avdeling (postnummer, adresse, telefonnummer, epost, ansattnummer, navn) VALUES ('7010', 'Dybdahls veg 23', '64947660', 'trondheim@getpumped.no', 30, 'Get pumped! Trondheim');
 INSERT INTO avdeling (postnummer, adresse, telefonnummer, epost, ansattnummer, navn) VALUES ('5003', 'Lars Hilles gate 19', '64948119', 'bergen@getpumped.no', 40, 'Get pumped! Bergen');
 
 -- Kunder
